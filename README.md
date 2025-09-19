@@ -2,7 +2,7 @@
 
 🚀 **专为 Xcode 设计的多模型 AI 代理服务**
 
-解决 Xcode 中无法直接添加多个 AI 模型的问题，支持智谱 GLM、Kimi、Google Gemini 等主流模型。
+解决 Xcode 中添加其他模型Provider is not valid的问题，支持智谱 GLM、Kimi、新增gemini模型。（折腾了下claude code 有点麻烦 就没有弄了）
 
 ## ✨ 特性
 
