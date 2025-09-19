@@ -48,7 +48,7 @@ GEMINI_API_KEY=你的Gemini API密钥
 GEMINI_API_URL=https://generativelanguage.googleapis.com/v1beta/openai
 
 # 自定义系统提示（可选）
-# CUSTOM_SYSTEM_PROMPT=你是一个专业的Swift开发助手，专门帮助iOS和macOS开发。
+# CUSTOM_SYSTEM_PROMPT=无论前置语言是什么都请使用中文交流。
 
 # 服务器配置
 PORT=9988
